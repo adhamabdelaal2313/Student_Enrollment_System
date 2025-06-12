@@ -1,0 +1,16 @@
+{
+  "name": "student-enrollment-system",
+  "version": "1.0.0",
+  "description": "Modern C++ Student Enrollment System with ImGui GUI",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "glfw-binding",
+        "opengl3-binding"
+      ]
+    },
+    "glfw3",
+    "glad"
+  ]
+} 
