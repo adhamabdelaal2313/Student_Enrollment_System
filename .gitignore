@@ -21,8 +21,8 @@ Thumbs.db
 # vcpkg build artifacts
 vcpkg/buildtrees/
 
-# Ignore local scripts and batch files if not needed
-*.bat
+# # Ignore local scripts and batch files if not needed
+# *.bat
 
 # Ignore backup files
 *~
